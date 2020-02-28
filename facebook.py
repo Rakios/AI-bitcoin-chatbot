@@ -14,7 +14,7 @@ input_channel = FacebookInput(
         fb_verify="prueba-bot",
         # you need tell facebook this token, to confirm your URL
         fb_secret="0fc4285c08b36c07113b15be9abceefa", # your app secret
-        fb_access_token="EAACthrdIUVUBANAz997eKP654fiZC6h99IFiksQmtIPUrkr0Eh5glkLCvh14oAnzAGx6AtOq1MZB3ZBVDztnjwkLE7OdGjoBrbGHLJs4S4RJIXv8pABc1ONSsi2ZCrS5K2ZAM2a0pFTBdNSkMZA8WwZBntSKbVaSTV67pBUtE17ZBwZDZD"
+        fb_access_token="EAACthrdIUVUBAHwBwFzYuhzycAeiK0NrHyAQdWk8nDtQcLrmN5PCAcRbeGIhfnxGPfZBQAOT7qLo6e6iUNhfoZBMMdf51o4gKhcYoVFvj0FRJc95RH666RonIZB3zqiCwz4jEZCxtCgkh1rWS5FNfjC1ohrJTUJ9ilbKNPq2jAZDZD"
         # token for the page you subscribed to
 )
 # set serve_forever=False if you want to keep the server running
